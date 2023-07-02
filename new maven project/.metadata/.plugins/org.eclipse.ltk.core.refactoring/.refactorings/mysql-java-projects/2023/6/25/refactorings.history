@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;projects.Projects&apos; to &apos;ProjectsApp&apos;&#x0D;&#x0A;- Original project: &apos;mysql-java-projects&apos;&#x0D;&#x0A;- Original element: &apos;projects.Projects&apos;&#x0D;&#x0A;- Renamed element: &apos;projects.ProjectsApp&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Projects&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;projects{Projects.java[Projects" matchStrategy="1" name="ProjectsApp" qualified="false" references="true" similarDeclarations="false" stamp="1687309875375" textual="false" version="1.0"/>
+</session>
