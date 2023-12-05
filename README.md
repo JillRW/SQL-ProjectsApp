@@ -3,7 +3,7 @@
 
 Using the CRUD operations, I created an application that can create, add, update, and delete projects." 
 
-Code snippet of main class:
+Code snippet of Main class:
 public class ProjectsApp2 {
 	ProjectService projectService = new ProjectService();
 	private Scanner scanner = new Scanner(System.in);
